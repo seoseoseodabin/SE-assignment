@@ -1,7 +1,5 @@
 # **Github flavored Markdown-extension part**
 
-<br>
-
 #### 읽기 전에)
 
 - 각 문법마다 사용 예시를 넣어놨으니까 실제 어떻게 표현되는지는 복붙해서 확인해볼 것
@@ -12,12 +10,20 @@
 # index
 
 ### 1. [Table](#1-table)
-### 2. Task list item
-### 3. StrikeThrough
-### 4. Autolink
-### 5. Disabled Raw HTML
+### 2. [Task list item](#2-task-list-item)
+### 3. [StrikeThrough](#3-strikethrough)
+### 4. [Autolink](#4-autolink)
+### 5. [Disabled Raw HTML](#5-disable-raw-html)
 
-<br><br><br>
+|no.|index|
+|:-:|:---:|
+|1|[Table](#1-table)|
+|2|[Task list item](#2-task-list-item)|
+|3|[StrikeThrough](#3-strikethrough)|
+|4|[Autolink](#4-autolink)|
+|5|[Disabled Raw HTML](#5-disable-raw-html)|
+
+<br><br>
 
 ## ***1. Table***
 
