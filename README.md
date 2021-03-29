@@ -9,11 +9,11 @@
 
 |no.|index|
 |:-:|:---:|
-|1|[Table](#1-table-1)|
-|2|[Task list item](#2-task-list-item-1)|
-|3|[StrikeThrough](#3-strikethrough-1)|
-|4|[Autolink](#4-autolink-1)|
-|5|[Disabled Raw HTML](#5-disable-raw-html-1)|
+|1|[Table(extension)](#1-table)|
+|2|[Task list item(extension)](#2-task-list-item)|
+|3|[StrikeThrough(extension)](#3-strikethrough)|
+|4|[Autolink(extension)](#4-autolink)|
+|5|[Disabled Raw HTML(extension)](#5-disable-raw-html)|
 
 <br><br>
 
