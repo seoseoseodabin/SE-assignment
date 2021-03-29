@@ -3,25 +3,17 @@
 #### 읽기 전에)
 
 - 각 문법마다 사용 예시를 넣어놨으니까 실제 어떻게 표현되는지는 복붙해서 확인해볼 것
-- 아래 index를 누르면 해당 문법이 있는 부분으로 이동함
+- 아래 표 안의 index를 누르면 해당 extension이 있는 부분으로 이동함
 
 <br>
 
-# index
-
-### 1. [Table](#1-table)
-### 2. [Task list item](#2-task-list-item)
-### 3. [StrikeThrough](#3-strikethrough)
-### 4. [Autolink](#4-autolink)
-### 5. [Disabled Raw HTML](#5-disable-raw-html)
-
 |no.|index|
 |:-:|:---:|
-|1|[Table](#1-table)|
-|2|[Task list item](#2-task-list-item)|
-|3|[StrikeThrough](#3-strikethrough)|
-|4|[Autolink](#4-autolink)|
-|5|[Disabled Raw HTML](#5-disable-raw-html)|
+|1|[Table](#1-table-1)|
+|2|[Task list item](#2-task-list-item-1)|
+|3|[StrikeThrough](#3-strikethrough-1)|
+|4|[Autolink](#4-autolink-1)|
+|5|[Disabled Raw HTML](#5-disable-raw-html-1)|
 
 <br><br>
 
