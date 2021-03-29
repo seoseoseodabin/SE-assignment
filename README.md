@@ -13,7 +13,7 @@
 |[2. Task list item](#2-task-list-item)|
 |[3. StrikeThrough](#3-strikethrough)|
 |[4. Autolink](#4-autolink)|
-|[5. Disabled Raw HTML](#5-disabled-raw-html)|
+|[5. Disallowed Raw HTML](#5-disallowed-raw-html)|
 
 <br><br>
 
