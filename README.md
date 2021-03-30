@@ -1,4 +1,4 @@
-# **Github flavored Markdown-extension part**
+# **Github flavored Markdown-extension**
 
 #### 읽기 전에)
 
